@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Bacon.Detail" parent="@style/Theme.Bacon">
+        <!--<item name="android:windowContentTransitions">true</item>-->
+        <!--<item name="android:windowEnterTransition">@transition/slide_in</item>-->
+
+    </style>
+
+    <style name="Theme.Bacon.Main" parent="Theme.Bacon">
+        <!--<item name="android:windowContentTransitions">true</item>-->
+        <item name="android:windowExitTransition">@transition/explode</item>
+        <item name="android:windowReenterTransition">@transition/slide_in</item>
+    </style>
+
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+    </style>
+</resources>
