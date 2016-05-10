@@ -19,7 +19,7 @@
         jar="/Users/nazianoorani/Downloads/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="32771a99385cbe00e9a73890716f09cdd6511c6d">
+        sha1="ef6df3608d869762b07e73eb831ccc14966a7553">
         <dex dex="/Users/nazianoorani/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1b28785b1d54ab6c57c0d25306a04cd214eaf0ba/classes.dex" />
     </item>
     <item
@@ -82,7 +82,7 @@
         jar="/Users/nazianoorani/Downloads/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="f689bb193ff8513c8f0d75a5622adbbe0f6c1f36">
+        sha1="fbdc84dcb3d3161af4f14a161af6eae831304f8d">
         <dex dex="/Users/nazianoorani/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5e4c08876a6cc27d5ee31a21b15ec4504f8914e4/classes.dex" />
     </item>
     <item
